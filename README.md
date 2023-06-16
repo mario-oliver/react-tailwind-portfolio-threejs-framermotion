@@ -11,3 +11,5 @@ Spaceship FBX - https://downloadfree3d.com/category/3d-models/aircraft/spaceship
 ## Initializing Three.js
 
 `run npm install three @types/three @react-three/fiber`
+`npm install @react-three/drei`
+`npm install @reat-three/postprocessing`
