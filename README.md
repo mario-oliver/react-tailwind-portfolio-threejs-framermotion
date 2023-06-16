@@ -12,4 +12,4 @@ Spaceship FBX - https://downloadfree3d.com/category/3d-models/aircraft/spaceship
 
 `run npm install three @types/three @react-three/fiber`
 `npm install @react-three/drei`
-`npm install @reat-three/postprocessing`
+`npm install @react-three/postprocessing`
